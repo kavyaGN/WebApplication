@@ -32,7 +32,7 @@ Welcome to the **React Weather App**! This project is a modern, mobile-friendly 
 
 
 
-> **Live Demo**: [https://prasath-m21.github.io/react-weather-app/](https://prasath-m21.github.io/react-weather-app/)
+> **Live Demo**: [ https://kavyagn.github.io/WebApplication/]( https://kavyagn.github.io/WebApplication/)
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to the **React Weather App**! This project is a modern, mobile-friendly 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/prasath-m21/react-weather-app.git
+   git clone  https://kavyagn.github.io/WebApplication/
    cd react-weather-app
    ```
 
@@ -67,25 +67,8 @@ Welcome to the **React Weather App**! This project is a modern, mobile-friendly 
 
 ---
 
-## 📂 Project Structure
 
-```
-react-weather-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── hooks/
-│   ├── utils/
-│   ├── App.js
-│   ├── index.js
-│   └── styles/
-├── .env
-├── package.json
-└── README.md
-```
 
----
 
 ## 🧑‍🎓 What Makes This Project Stand Out?
 
@@ -114,10 +97,11 @@ Contributions are welcome! Please open an issue or submit a pull request for que
 
 ## 📧 Contact
 
-Created by [Prasath M](https://github.com/prasath-m21)  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/prasath-m21/) or email for collaborations.
+Created by [Kavya G N](https://github.com/kavyaGN)  
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kavya-g-n-7b27251b6/) or email for collaborations.
 
 ---
 
 ## ⭐️ If you like this project, please star it! Your support motivates further improvements.
+
 
